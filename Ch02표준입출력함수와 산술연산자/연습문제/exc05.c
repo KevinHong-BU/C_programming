@@ -4,10 +4,10 @@ int main()
 {
 	double side, area;
 
-	printf("Á¤»ï°¢ÇüÀÇ ÇÑ º¯ : ");
+	printf("ì •ì‚¼ê°í˜•ì˜ í•œ ë³€ : ");
 	scanf("%lf", &side);
 
 	area = sqrt(3.)/4.*side*side;
 	
-	printf("»ï°¢ÇüÀÇ ¸éÀû = %f\n", area);
+	printf("ì‚¼ê°í˜•ì˜ ë©´ì  = %f\n", area);
 }
