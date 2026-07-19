@@ -4,5 +4,5 @@ int main()
 {
 	int dec=3849, bin;
 	bin = (int) ceil(log10(dec)/ log10(2.));
-	printf("10Áø¼ö %d´Â 2Áø¼ö %dÀÚ¸®\n", dec, bin);
+	printf("10ì§„ìˆ˜ %dëŠ” 2ì§„ìˆ˜ %dìë¦¬\n", dec, bin);
 }
