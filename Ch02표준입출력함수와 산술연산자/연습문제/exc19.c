@@ -6,5 +6,5 @@ int main()
 	scanf("%d", &x);
 	x = x+5;
 	x = x - x%10;
-	printf("°á°ú = %d\n", x);
+	printf("ê²°ê³¼ = %d\n", x);
 }
