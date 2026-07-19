@@ -2,8 +2,8 @@
 int main()
 {
 	double freq, length;
-	printf("ÁÖÆÄ¼ö ÀÔ·Â:");
+	printf("주파수 입력:");
 	scanf("%lf", &freq);
 	length = 300000000/freq;
-	printf("ÆÄÀå = %lf\n", length);
+	printf("파장 = %lf\n", length);
 }
