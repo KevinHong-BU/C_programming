@@ -2,8 +2,8 @@
 int main()
 {
 	double freq, length;
-	printf("ÁÖÆÄ¼ö ÀÔ·Â:");
+	printf("ÃÃ–Ã†Ã„Â¼Ã¶ Ã€Ã”Â·Ã‚:");
 	scanf("%lf", &freq);
 	length = 300000000/freq;
-	printf("ÆÄÀå = %lf\n", length);
+	printf("Ã†Ã„Ã€Ã¥ = %lf\n", length);
 }
