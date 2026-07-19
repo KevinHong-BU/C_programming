@@ -4,11 +4,11 @@ int main()
 {
 	double ra, rb, surface, round;
 	const double pi = 3.141592;
-	printf("¹İÁö¸§a : ");
+	printf("ë°˜ì§€ë¦„a : ");
 	scanf("%lf", &ra);
-	printf("¹İÁö¸§b : ");
+	printf("ë°˜ì§€ë¦„b : ");
 	scanf("%lf", &rb);
 	surface = pi*ra*rb;
 	round = 2.0*pi*sqrt(1./2.*(ra*ra + rb*rb));
-	printf("³ĞÀÌ : %f, µÑ·¹ : %f\n", surface, round);
+	printf("ë„“ì´ : %f, ë‘˜ë ˆ : %f\n", surface, round);
 }
