@@ -4,12 +4,12 @@ int main()
 	const double pi = 3.141592;
 	double radius, surface, volume;
 
-	printf("±¸ÀÇ ¹İÁö¸§ : ");
+	printf("å¤‡ç‹¼ é¦†ç˜¤æŠš : ");
 	scanf("%lf", &radius) ;
 	
 	surface = 4.*pi*radius*radius;
 	volume = 4./3.*pi*radius*radius*radius;
 	
-	printf("±¸ÀÇ Ç¥¸éÀû = %f\n", surface);
-	printf("±¸ÀÇ ºÎÇÇ = %f\n", volume);
+	printf("å¤‡ç‹¼ é’æåˆ© = %f\n", surface);
+	printf("å¤‡ç‹¼ ä½•ä¹” = %f\n", volume);
 }
