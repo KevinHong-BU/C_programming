@@ -2,10 +2,10 @@
 int main()
 {
 	double v, i, r;
-	printf("Àü¾Ð : ");
+	printf("ì „ì•• : ");
 	scanf("%lf", &v);
-	printf("ÀúÇ× : ");
+	printf("ì €í•­ : ");
 	scanf("%lf", &r);
 	i = v / r;
-	printf("Àü·ù : %f[A]\n", i);
+	printf("ì „ë¥˜ : %f[A]\n", i);
 }
