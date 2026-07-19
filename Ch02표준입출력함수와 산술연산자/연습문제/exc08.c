@@ -2,8 +2,8 @@
 int main()
 {
 	double a, b, c, decision;
-	printf("°è¼ö a, b, c ÀÔ·Â:");
+	printf("ê³„ìˆ˜ a, b, c ì…ë ¥:");
 	scanf("%lf%*c%lf%*c*lf", &a, &b, &c);
 	decision = b*b - 4*a*c;
-	printf("ÆÇº°½Ä = %lf\n", decision);
+	printf("íŒë³„ì‹ = %lf\n", decision);
 }
