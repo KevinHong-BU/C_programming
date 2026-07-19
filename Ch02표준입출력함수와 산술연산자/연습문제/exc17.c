@@ -4,5 +4,5 @@ int main()
 {
 	double series, r=2., a=1, n=10;
 	series = a*(pow(r, n)-1)/(r-1);
-	printf("ÇÕ = %f\n", series);
+	printf("í•© = %f\n", series);
 }
