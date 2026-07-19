@@ -7,5 +7,5 @@ int main()
 	sec = distance/light;
 	min = sec/60;
 	sec = sec%60;
-	printf("%dºĞ %dÃÊ\n", min, sec);
+	printf("%dÂºÃ %dÃƒÃŠ\n", min, sec);
 }
