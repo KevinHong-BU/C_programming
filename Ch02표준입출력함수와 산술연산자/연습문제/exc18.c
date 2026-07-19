@@ -5,5 +5,5 @@ int main()
 	double principal=10000000, total, rate=0.05;
 	int years = 10;
 	total = principal*pow(1+rate, 10);
-	printf("ÇÕ = %f\n", total);
+	printf("í•© = %f\n", total);
 }
