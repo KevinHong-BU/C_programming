@@ -5,5 +5,5 @@ int main()
 	int change;
 
 	change = 50000 - a*3 - b*5 - c*3;
-	printf("°Å½º¸§µ· = %d\n", change);
+	printf("Â°Ã…Â½ÂºÂ¸Â§ÂµÂ· = %d\n", change);
 }
