@@ -1,7 +1,0 @@
-#include <stdio.h>
-int main()
-{
-	int x=10, y=3;
-	printf("x¸¦ y·Î ³ª´« ¸ò = %d\n", x/y);
-	printf("x¸¦ y·Î ³ª´« ³ª¸ÓÁö = %d\n", x%y);
-}
